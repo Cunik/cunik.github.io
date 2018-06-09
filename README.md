@@ -10,7 +10,8 @@ Imagine what life will be if you can build and deploy unikernel applications as 
 
 For now,  we are still coding for very basic functionalities. What we have achieved are:
 
-[Cunik/Cunik-engine](https://github.com/Cunik/Cunik-engine) <a class="github-button" href="https://github.com/Cunik/Cunik-engine" data-show-count="true" aria-label="Star Cunik/Cunik-engine on GitHub">Star</a>
+[Cunik/Cunik-engine](https://github.com/Cunik/Cunik-engine) [![Build Status](https://travis-ci.org/Cunik/Cunik-engine.svg?branch=master)](https://travis-ci.org/Cunik/Cunik-engine)
+ <a class="github-button" href="https://github.com/Cunik/Cunik-engine" data-show-count="true" aria-label="Star Cunik/Cunik-engine on GitHub">Star</a>
 
 * simple router that deals with requests to create a Cunik;
 * simple registry that makes it possible to demonstrate the idea;
