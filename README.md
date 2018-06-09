@@ -1,3 +1,5 @@
+Star our repo: <a class="github-button" href="https://github.com/Cunik/Cunik-engine" data-icon="octicon-star" data-size="large" aria-label="Star Cunik/Cunik-engine on GitHub">Star</a>
+
 Cunik is a solution for easily building, packaging, delivering,  fetching, deploying and managing unikernel images over different  unikernel implementations like Rumprun, OSv, MirageOS and IncludeOS,  which enables people to launch unikernel applications by several command lines. Imagine what life will be if you can build and deploy unikernel applications as easily as what it is like using Docker.
 
 For now,  we are still coding for very basic functionalities. What we have achieved are:
@@ -6,5 +8,4 @@ For now,  we are still coding for very basic functionalities. What we have achie
 * simple registry that makes it possible to demonstrate the idea;
 * simple(and yes, ugly..) code for interaction with libvirt to manage virtual machines.
 
-Pull requests are welcome. And your star will help us assess the importance of Cunik([Go to star](https://github.com/Cunik/Cunik-engine)).
-
+Pull requests are welcome. And your star will help us assess the importance of Cunik.
