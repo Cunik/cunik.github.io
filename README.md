@@ -14,8 +14,9 @@ For now,  we are still coding for very basic functionalities. What we have achie
 
 * simple router that deals with requests to create a Cunik;
 * simple registry that makes it possible to demonstrate the idea;
-* simple(and yes, ugly..) code for interaction with libvirt to manage virtual machines.
+* simple(and yes, ugly...) code for interaction with libvirt to manage virtual machines.
 
-## Others
+## Something else...
 
 Pull requests are welcome. And your star will help us assess the importance of Cunik.
+
